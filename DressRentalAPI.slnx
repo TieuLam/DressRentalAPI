@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="DressRental.Application/DressRental.Application.csproj" Id="8c54c5e7-af23-4e2a-9664-b64e5763193d" />
+  <Project Path="DressRental.Domain/DressRental.Domain.csproj" Id="aee9b7b0-4554-4340-8ff9-d6d79f4a917d" />
+  <Project Path="DressRental.Infrastructure/DressRental.Infrastructure.csproj" Id="6fd123c7-dcb1-42b3-b453-48332d65df03" />
+  <Project Path="DressRentalAPI/DressRentalAPI.csproj">
+    <BuildDependency Project="DressRental.Domain/DressRental.Domain.csproj" />
+  </Project>
+</Solution>
