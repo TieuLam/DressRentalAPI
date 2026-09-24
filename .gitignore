@@ -52,4 +52,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-DressRentalAPI/Storage/
+AccessoryImages/
+DressImages/
