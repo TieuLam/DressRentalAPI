@@ -15,11 +15,12 @@ public partial class Order
 
     public DateOnly? ActualReturnDate { get; set; }
 
-    public long TotalAmount { get; set; }
+    public long TotalAmount { get; set; } = 0;
 
-    public long TotalDeposit { get; set; }
+    public long TotalDeposit { get; set; } = 0;
 
     public string Status { get; set; } = null!;
+    public DateTime CreateAt { get; set; }
 
     public virtual CustomerProfile Customer { get; set; } = null!;
 

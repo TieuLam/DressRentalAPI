@@ -13,9 +13,9 @@ public partial class OrderDetail
 
     public string RentalType { get; set; } = null!;
 
-    public long Price { get; set; }
+    public long Price { get; set; } = 0;
 
-    public long DepositAmount { get; set; }
+    public long DepositAmount { get; set; } = 0;
 
     public virtual ProductItem Item { get; set; } = null!;
 
