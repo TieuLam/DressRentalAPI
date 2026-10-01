@@ -3,116 +3,28 @@
   "WorkspaceRootPath": "D:\\Personal\\DressRentalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal\\DressRentalAPI\\docs\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal\\DressRentalAPI\\docs\\Phase_4_Presentation_API.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\Phase_4_Presentation_API.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|d:\\personal\\dressrentalapi\\dressrental.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|solutionrelative:dressrental.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|d:\\personal\\dressrentalapi\\dressrental.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|solutionrelative:dressrental.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|d:\\personal\\dressrentalapi\\dressrental.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|solutionrelative:dressrental.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\interfaces\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|d:\\personal\\dressrentalapi\\dressrental.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FD123C7-DCB1-42B3-B453-48332D65DF03}|DressRental.Infrastructure\\DressRental.Infrastructure.csproj|solutionrelative:dressrental.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\entities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\entities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\interfaces\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\interfaces\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\dtos\\inspections\\returninspectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\dtos\\inspections\\returninspectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\seed\\create_seed_table.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\seed\\create_seed_table.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\exceptions\\doublebookingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\exceptions\\doublebookingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\enums\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\enums\\productitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\enums\\productitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|d:\\personal\\dressrentalapi\\dressrental.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE9B7B0-4554-4340-8FF9-D6D79F4A917D}|DressRental.Domain\\DressRental.Domain.csproj|solutionrelative:dressrental.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|d:\\personal\\dressrentalapi\\dressrental.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C54C5E7-AF23-4E2A-9664-B64E5763193D}|DressRental.Application\\DressRental.Application.csproj|solutionrelative:dressrental.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|d:\\personal\\dressrentalapi\\dressrentalapi\\dressrentalapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{14816B87-4A31-D5AA-740A-A686D877EC30}|DressRentalAPI\\DressRentalAPI.csproj|solutionrelative:dressrentalapi\\dressrentalapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,201 +34,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\docs\\README.md",
-              "RelativeDocumentMoniker": "docs\\README.md",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\docs\\README.md",
-              "RelativeToolTip": "docs\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-09-25T17:33:38.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Phase_4_Presentation_API.md",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\docs\\Phase_4_Presentation_API.md",
-              "RelativeDocumentMoniker": "docs\\Phase_4_Presentation_API.md",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\docs\\Phase_4_Presentation_API.md",
-              "RelativeToolTip": "docs\\Phase_4_Presentation_API.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJECAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-09-25T17:33:37.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "DressRental.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "DressRental.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:10:52.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DressRental.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "DressRental.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAcAAAA3AAAAAAAAAA==",
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\PaymentType.cs",
+              "RelativeDocumentMoniker": "DressRental.Domain\\Enums\\PaymentType.cs",
+              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\PaymentType.cs",
+              "RelativeToolTip": "DressRental.Domain\\Enums\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T14:56:50.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "DressRental.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "DressRental.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:45:27.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "DressRental.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "DressRental.Infrastructure\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:37:35.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "DressRental.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:34:22.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Entities\\Product.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "DressRental.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:13:26.089Z",
+              "WhenOpened": "2026-09-24T10:31:15.544Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "DressRental.Application\\Interfaces\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DressRental.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "DressRental.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T14:29:55.881Z",
+              "WhenOpened": "2026-10-01T14:52:00.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\Payment.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Entities\\Payment.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\Payment.cs",
-              "RelativeToolTip": "DressRental.Domain\\Entities\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DressRentalAPI\\Program.cs",
+              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Program.cs",
+              "RelativeToolTip": "DressRentalAPI\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:28:31.412Z",
+              "WhenOpened": "2026-10-01T14:39:48.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "DressRental.Application\\Interfaces\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "DressRentalAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "DressRentalAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA0wEMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:06:51.04Z",
+              "WhenOpened": "2026-09-29T17:15:18.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductItem.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\ProductItem.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Entities\\ProductItem.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\ProductItem.cs",
-              "RelativeToolTip": "DressRental.Domain\\Entities\\ProductItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DressRentalAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DressRentalAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:12:58.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Entities\\OrderDetail.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "DressRental.Domain\\Entities\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:03:47.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderServices.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Services\\OrderServices.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\Services\\OrderServices.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Services\\OrderServices.cs",
-              "RelativeToolTip": "DressRental.Application\\Services\\OrderServices.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T10:41:26.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DomainException.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Exceptions\\DomainException.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Exceptions\\DomainException.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Exceptions\\DomainException.cs",
-              "RelativeToolTip": "DressRental.Domain\\Exceptions\\DomainException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T10:57:02.809Z",
+              "WhenOpened": "2026-09-29T16:52:48.266Z",
               "EditorCaption": ""
             },
             {
@@ -433,161 +216,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\Services\\IOrderService.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Services\\IOrderService.cs",
-              "RelativeToolTip": "DressRental.Application\\Services\\IOrderService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "DressRentalAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "DressRentalAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T10:34:42.917Z",
+              "WhenOpened": "2026-09-29T16:19:22.126Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
-              "RelativeToolTip": "DressRental.Application\\Interfaces\\Repositories\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T14:18:48.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ReturnInspectionDto.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\DTOs\\Inspections\\ReturnInspectionDto.cs",
-              "RelativeDocumentMoniker": "DressRental.Application\\DTOs\\Inspections\\ReturnInspectionDto.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Application\\DTOs\\Inspections\\ReturnInspectionDto.cs",
-              "RelativeToolTip": "DressRental.Application\\DTOs\\Inspections\\ReturnInspectionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T15:22:51.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DoubleBookingException.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Exceptions\\DoubleBookingException.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Exceptions\\DoubleBookingException.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Exceptions\\DoubleBookingException.cs",
-              "RelativeToolTip": "DressRental.Domain\\Exceptions\\DoubleBookingException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T10:38:53.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PaymentMethod.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\PaymentMethod.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Enums\\PaymentMethod.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\PaymentMethod.cs",
-              "RelativeToolTip": "DressRental.Domain\\Enums\\PaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T10:29:51.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "DressRentalAPI\\appsettings.json",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\appsettings.json",
-              "RelativeToolTip": "DressRentalAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-23T17:47:33.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Create_Seed_Table.sql",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Seed\\Create_Seed_Table.sql",
-              "RelativeDocumentMoniker": "DressRentalAPI\\Seed\\Create_Seed_Table.sql",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Seed\\Create_Seed_Table.sql",
-              "RelativeToolTip": "DressRentalAPI\\Seed\\Create_Seed_Table.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-24T11:02:02.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PaymentType.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\PaymentType.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Enums\\PaymentType.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\PaymentType.cs",
-              "RelativeToolTip": "DressRental.Domain\\Enums\\PaymentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T10:31:15.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Enums\\UserRole.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\UserRole.cs",
-              "RelativeToolTip": "DressRental.Domain\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T10:32:30.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductItemStatus.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\ProductItemStatus.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Enums\\ProductItemStatus.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\ProductItemStatus.cs",
-              "RelativeToolTip": "DressRental.Domain\\Enums\\ProductItemStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T10:25:45.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "DressRental.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRental.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "DressRental.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T10:24:30.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DressRentalAPI",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\DressRentalAPI.csproj",
-              "RelativeDocumentMoniker": "DressRentalAPI\\DressRentalAPI.csproj",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\DressRentalAPI.csproj",
-              "RelativeToolTip": "DressRentalAPI\\DressRentalAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-23T18:04:15.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Program.cs",
-              "RelativeDocumentMoniker": "DressRentalAPI\\Program.cs",
-              "ToolTip": "D:\\Personal\\DressRentalAPI\\DressRentalAPI\\Program.cs",
-              "RelativeToolTip": "DressRentalAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T16:42:15.586Z"
             }
           ]
         }
