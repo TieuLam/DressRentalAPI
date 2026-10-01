@@ -1,5 +1,6 @@
 ﻿using DressRental.Application.DTOs.Orders;
 using DressRental.Application.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DressRentalAPI.Controllers;
@@ -34,12 +35,11 @@ public class OrdersController : ControllerBase
     /// POST: api/orders
     /// </summary>
     [HttpPost]
+    [AllowAnonymous]
     [ProducesResponseType(typeof(OrderResponseDto), StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [ProducesResponseType(StatusCodes.Status409Conflict)]
-    public async Task<IActionResult> CreateOrder(
-        [FromBody] CreateOrderRequest request,
-        CancellationToken cancellationToken)
+    public async Task<IActionResult> CreateOrder([FromBody] CreateOrderRequest request, CancellationToken cancellationToken)
     {
         var order = await _orderService.CreateOrderAsync(request, cancellationToken);
 
@@ -69,12 +69,10 @@ public class OrdersController : ControllerBase
     /// POST: api/orders/1/confirm-deposit
     /// </summary>
     [HttpPost("{id:long}/confirm-deposit")]
+    [Authorize(Roles = "ADMIN,STAFF")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public async Task<IActionResult> ConfirmDeposit(
-        long id,
-        [FromBody] ConfirmDepositRequest request,
-        CancellationToken cancellationToken)
+    public async Task<IActionResult> ConfirmDeposit(long id, [FromBody] ConfirmDepositRequest request, CancellationToken cancellationToken)
     {
         bool success = await _orderService.ConfirmDepositAsync(id, request.Amount, request.PaymentMethod, cancellationToken);
         if (!success)

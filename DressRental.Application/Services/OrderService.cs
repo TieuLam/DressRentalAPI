@@ -46,9 +46,30 @@ namespace DressRental.Application.Services
             {
                 throw new DomainException("Đơn hàng phải có ít nhất một sản phẩm.");
             }
+
+            CustomerProfile customer;
+            if (request.CustomerId.HasValue && request.CustomerId.Value > 0)
+            {
+                customer = await _orderRepository.GetCustomerByIdAsync(request.CustomerId.Value, cancellationToken)
+                    ?? throw new DomainException($"Không tìm thấy khách hàng với ID #{request.CustomerId.Value}.");
+            }
+            else
+            {
+                if (string.IsNullOrWhiteSpace(request.CustomerName) || string.IsNullOrWhiteSpace(request.PhoneNumber))
+                {
+                    throw new DomainException("Vui lòng nhập họ tên và số điện thoại của người thuê.");
+                }
+                customer = await _orderRepository.GetOrCreateCustomerProfileAsync(
+                    request.CustomerName.Trim(),
+                    request.PhoneNumber.Trim(),
+                    request.Email?.Trim(),
+                    request.Address?.Trim(),
+                    cancellationToken);
+            }
+
             var order = new Order
             {
-                CustomerId = request.CustomerId,
+                CustomerId = customer.Id,
                 StartDate = request.StartDate,
                 EndDate = request.EndDate,
                 Status = nameof(OrderStatus.Pending).ToUpper(),

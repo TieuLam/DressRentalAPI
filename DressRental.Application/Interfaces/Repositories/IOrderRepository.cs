@@ -15,5 +15,8 @@ namespace DressRental.Application.Interfaces.Repositories
 
         //Cập nhật thông tin của một đơn hàng hiện có
         Task UpdateOrderAsync(Order order, CancellationToken cancellationToken = default);
+        Task<CustomerProfile?> GetCustomerByIdAsync(long customerId, CancellationToken cancellationToken = default);
+        Task<CustomerProfile> GetOrCreateCustomerProfileAsync(string name, string phoneNumber, string? email, string? address, CancellationToken cancellationToken = default);
     }
 }
+

@@ -38,7 +38,8 @@ namespace DressRental.Infrastructure.Repositories
 
         public async Task<Order?> GetOrderByIdAsync(long orderId, CancellationToken cancellationToken = default)
         {
-            return await _context.Orders.Include(o => o.OrderDetails)
+            return await _context.Orders.Include(o => o.Customer)
+                                        .Include(o => o.OrderDetails)
                                             .ThenInclude(od => od.Item)
                                             .ThenInclude(i => i.Product)
                                         .Include(p => p.Payments)
@@ -86,6 +87,41 @@ namespace DressRental.Infrastructure.Repositories
         {
             _context.Orders.Update(order);
             return Task.CompletedTask;
+        }
+
+        public async Task<CustomerProfile?> GetCustomerByIdAsync(long customerId, CancellationToken cancellationToken = default)
+        {
+            return await _context.CustomerProfiles.FirstOrDefaultAsync(c => c.Id == customerId, cancellationToken);
+        }
+
+        public async Task<CustomerProfile> GetOrCreateCustomerProfileAsync(string name, string phoneNumber, string? email, string? address, CancellationToken cancellationToken = default)
+        {
+            // Tận dụng index IX_CustomerProfile_PhoneNumber trong DB để tìm khách quen quay lại
+            var customer = await _context.CustomerProfiles
+                .FirstOrDefaultAsync(c => c.PhoneNumber == phoneNumber, cancellationToken);
+
+            if (customer == null)
+            {
+                customer = new CustomerProfile
+                {
+                    Name = name,
+                    PhoneNumber = phoneNumber,
+                    Email = email,
+                    Address = address,
+                    UserId = null // Khách vãng lai: UserId để NULL theo đúng thiết kế database
+                };
+                await _context.CustomerProfiles.AddAsync(customer, cancellationToken);
+                await _context.SaveChangesAsync(cancellationToken); // Lưu để lấy Customer.Id
+            }
+            else
+            {
+                // Cập nhật thông tin mới nhất nếu khách có thay đổi email/địa chỉ
+                customer.Name = name;
+                if (!string.IsNullOrEmpty(email)) customer.Email = email;
+                if (!string.IsNullOrEmpty(address)) customer.Address = address;
+            }
+
+            return customer;
         }
     }
 }
